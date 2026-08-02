@@ -18,13 +18,11 @@ Estou em transição de carreira, unindo minha base técnica em eletromecânica 
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🌱 Aprendendo agora
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+- 🐍 Python (fundamentos, com apoio de IA para acelerar o aprendizado)
+- 📚 Lógica de programação, através da Engenharia de Software (Ceuma/TechX)
+- ⚡ Conhecimento prático em eletrônica e automação industrial (CETEC), com interesse em aplicar isso futuramente em projetos com Arduino
 
 ---
 
