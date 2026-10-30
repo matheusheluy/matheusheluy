@@ -62,6 +62,8 @@ Hoje estou construindo minha base em programação no **Trilhas Inova**, com o o
 
 | Projeto | Descrição |
 |---|---|
+| 🍽️ [Food Finder](https://github.com/tribuzix/food-finder) | Protótipo de app mobile para descobrir restaurantes e reservar mesas, com feed de vídeos estilo Reels, busca com filtros e reserva integrada. Projeto em dupla: fiz a **estruturação do front-end** (como as telas e a navegação deveriam ser organizadas) e [@tribuzix](https://github.com/tribuzix) transformou em protótipo funcional no **Figma** |
+| 🚀 [Bootcamp](https://github.com/matheusheluy/bootcamp-techx) | Bootcamp de desenvolvimento back-end e front-end, com boas práticas de programação e projetos de inovação voltados a problemas reais |
 | 🛒 [Desafio-1-python-trilha](https://github.com/matheusheluy/Desafio-1-python-trilha) | PDV (ponto de venda) em Python com descontos progressivos por idade e valor, feito no Trilhas Inova |
 
 > 🚧 Mais projetos chegando em breve!
